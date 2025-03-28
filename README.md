@@ -1,6 +1,8 @@
 # Reselling Dashboard Project  
 
-This repository contains my Power BI dashboard project designed to track and analyze the performance of my reselling business. The dashboard provides insights into **sales trends**, **profit margins**, **inventory management**, and **platform performance**, helping to make data-driven decisions for optimizing sales and profitability.  
+This repository contains my Power BI dashboard project designed to track and analyze the performance of my reselling business. The dashboard provides insights into **sales trends**, **profit margins**, **inventory management**, and **platform performance**, helping to make data-driven decisions for optimizing sales and profitability. 
+
+You can go directly to the report here - https://app.powerbi.com/links/LgNLwEKZej?ctid=515a8d85-4e1e-464f-b7e4-90fbac5d7493&pbi_source=linkShare
 
 ## 📌 Project Scope  
 
