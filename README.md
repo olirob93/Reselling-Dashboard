@@ -66,9 +66,9 @@ The objective was to build a dashboard that consolidates data from various resel
 
 ## Images of dashboard & old data
 
-![image](images/Excel.PNG)
-![image](images/Overview.PNG)
-![image](images/Ebay.PNG)
+![image](Images/Excel.PNG)
+![image](Images/Overview.PNG)
+![image](Images/Ebay.PNG)
 
 📜 License
 This project uses data from my personal reselling business. The data has been anonymized and transformed for demonstration purposes.
